@@ -1,0 +1,46 @@
+body{
+    background-color: black;
+    color: white;
+}
+h1{
+    padding: 10px;
+}
+.red{
+    color: red;
+}
+.blue{
+    color: blue
+}
+
+p{
+    color: white;
+}
+
+#vansh{
+    color: green;
+}
+
+.container{
+    margin: 20px; 
+    /* top, right, bottom, left */
+    /* top, right+left, bottom */
+    /* top+bottom, right+left */
+    padding: 25px;
+    border: 1px solid white;
+    /* background-color: blueviolet; */
+}
+
+/* .headings{
+    font-size: 40px;
+    padding: 200px;
+    margin: 10px;
+    border: 1px solid purple;
+    background-color: aquamarine;
+} */
+
+button{
+    padding: 20px;
+    border-radius: 50px;
+    margin: 30px;
+    font-size: 18px;
+}
